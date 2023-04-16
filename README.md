@@ -3,7 +3,7 @@
 
 - I work at Comic Relief, a major UK based charity that strives for "a just world free from poverty".
 - Having said that, there's only about 10 years left till those AI widget things start eating our brains.
-- Probably just keep pushing a bit of code for now though.
+- So... probably just keep pushing a bit of code for now though.
 
 ### Current Side Project
 A cutting list app for the construction industry called... cuttinglistapp {LINKHERE to come}.
