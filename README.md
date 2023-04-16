@@ -3,7 +3,7 @@
 
 - I work at Comic Relief, a major UK based charity that strives for "A just world free from poverty".
 - In my spare time, I am building a cutting list app for the construction industry called... cuttinglistapp {LINKHERE to come}.
-- Apparently those AI widget things are going to exterminate humankind, but until then I'll probably keep pushing a bit of code.
+- Apparently before long those AI widget things are going to start eating our brains, but until then I'll probably keep pushing a bit of code.
 
 ### Languages
 Javascript, Typescript, Python, HTML, CSS, Bash, Git
