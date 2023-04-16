@@ -11,9 +11,9 @@ A cutting list app for the construction industry called... cuttinglistapp {LINKH
 ### Languages
 Javascript, Typescript, Python, HTML, CSS, Bash, Git.
 
-### Dev Tools
-Mac / Linux, Neovim, Tmux, Zsh shell, Yabai window manager, AWS, Netlify, LazyGit, Contentful CMS, Sanity.io.
+### Dev Stuff
+Mac / Linux, Neovim, Tmux, Kitty terminal, Zsh shell, Yabai window manager, AWS, Netlify, LazyGit, Contentful CMS, Sanity.io.
 
 ### Teamwork Apps
-Jira, Slack, Github.
+Zoom, Jira, Slack, Github, Keybase.
 
