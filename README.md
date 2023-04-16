@@ -3,7 +3,7 @@
 
 - I work at Comic Relief, a major UK based charity that strives for "a just world free from poverty".
 - Having said that, there's only about 10 years left till those AI widget things start eating our brains.
-- I'm not sure really what to do, so I'll probably just keep pushing a bit of code here.
+- Probably just keep pushing a bit of code for now though.
 
 ### Current Side Project
 A cutting list app for the construction industry called... cuttinglistapp {LINKHERE to come}.
@@ -12,7 +12,7 @@ A cutting list app for the construction industry called... cuttinglistapp {LINKH
 Javascript, Typescript, Python, HTML, CSS, Bash, Git.
 
 ### Dev Tools
-Mac / Linux, Neovim, Zsh shell, Yabai window manager, Tmux, AWS, Netlify, Contentful CMS, LazyGit.
+Mac / Linux, Neovim, Tmux, Zsh shell, Yabai window manager, AWS, Netlify, LazyGit, Contentful CMS, Sanity.io.
 
 ### Teamwork Apps
 Jira, Slack, Github.
