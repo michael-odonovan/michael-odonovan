@@ -12,5 +12,5 @@ Javascript, Typescript, Python, HTML, CSS, Bash, Git
 Mac / Linux, Neovim, Zsh shell, Yabai window manager, Tmux, AWS, Netlify, Contentful CMS, LazyGit
 
 ### Teamwork Apps
-Github, Jira, Slack
+Jira, Slack, Github 
 
