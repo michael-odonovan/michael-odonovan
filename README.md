@@ -6,7 +6,7 @@
 - For now... probably just keep pushing a bit of Javascript code.
 
 ### Current Side Project
-A cutting list app for the construction industry called... cuttinglistapp {LINKHERE to come}.
+A cutting list App for the construction industry called... cuttinglistapp {LINKHERE to come}.
 
 ### Languages
 Javascript, Typescript, Python, HTML, CSS, Bash, Git.
