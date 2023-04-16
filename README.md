@@ -6,10 +6,10 @@
 - Apparently before long those AI widget things are going to start eating our brains, but until then I'll probably keep pushing a bit of code.
 
 ### Languages
-Javascript, Typescript, Python, HTML, CSS, Bash
+Javascript, Typescript, Python, HTML, CSS, Bash, Git
 
 ### Dev Tools
-Mac / Linux, Neovim, Zsh shell, Yabai window manager, Tmux, AWS, Netlify, Contentful CMS, LazyGit, Git
+Mac / Linux, Neovim, Zsh shell, Yabai window manager, Tmux, AWS, Netlify, Contentful CMS, LazyGit
 
 ### Teamwork Apps
 Github, Jira, Slack
