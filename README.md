@@ -26,5 +26,5 @@ Mac / Linux, Neovim, Tmux, LazyGit, Kitty terminal, Zsh shell, Yabai window mana
 ### Teamwork Apps
 Zoom, Jira, Slack, Github, Keybase.
 
-### There's only about 10 years left before those AI widget things start eating our brains, but as an exersize in futility I'll probably just keep pushing a bit of code here....
+### There's only about 10 years left before those AI widget things start eating our brains. I'm not sure what to do about that, so I'll probably just keep pushing a bit of code here....
 
