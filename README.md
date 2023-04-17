@@ -1,9 +1,17 @@
-<h2 align="center">Hey 👋 I'm Mike <br>A Front-end Developer living in Bristol, UK</h2>
+<div style="
+text-align: center; 
+padding: 10px 0; 
+font-size: 25px;
+margin-bottom: 20px;
+">
+
+<div>Hey 👋 I'm Mike <br>A Front-end Developer living in Bristol, UK</div>
+
+</div>
 
 
 - I work at Comic Relief, a major UK based charity that strives for "a just world free from poverty".
-- Having said that, there's only about 10 years left till those AI widget things start eating our brains.
-- For now... probably just keep pushing a bit of Javascript code.
+- There's only about 10 years left before those AI widget things start eating our brains, but as an exersize in futility I'll probably just keep pushing a bit of code here....
 
 ### Current Side Project
 A cutting list App for the construction industry called... cuttinglistapp {LINKHERE to come}.
