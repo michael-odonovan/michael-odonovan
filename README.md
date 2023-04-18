@@ -5,6 +5,8 @@ font-size: 25px;
 margin-bottom: 20px;
 ">
 
+### There's only about 10 years left before those AI widget things start eating our brains. I'm not sure what to do about that, so I'll probably just keep pushing a bit of code here....
+
 <div>
 Hey 👋 I'm Mike <br>A Front-end Developer living in Bristol, UK
 </div>
@@ -26,6 +28,3 @@ Mac / Linux, Neovim, Tmux, LazyGit, Kitty terminal, Zsh shell, Yabai window mana
 ### Teamwork Apps
 Zoom, Jira, Slack, Github, Keybase.
 
-### There's only about 10 years left before those AI widget things start eating our brains. I'm not sure what to do about that, so I'll probably just keep pushing a bit of code here....
-
-![cardboard robot]( https://github.com/michael-odonovan/michael-odonovan/blob/main/robot.jpg "Welcome to my GitHub")
