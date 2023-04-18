@@ -1,20 +1,7 @@
-<div style="
-text-align: center; 
-padding: 10px 0; 
-font-size: 25px;
-margin-bottom: 20px;
-">
+### There's only about 10 years left before those AI widget things start eating our brains. I'm not sure what to do about that, so I'll probably just keep pushing a bit of code here.
 
-### There's only about 10 years left before those AI widget things start eating our brains. I'm not sure what to do about that, so I'll probably just keep pushing a bit of code here....
-
-<div>
-Hey 👋 I'm Mike <br>A Front-end Developer living in Bristol, UK
-</div>
-
-</div>
-
-
-I work at Comic Relief, a major UK based charity that strives for "a just world free from poverty".
+- A Front-end Developer living in Bristol, UK
+- I work at Comic Relief, a major UK based charity that strives for "a just world free from poverty".
 
 ### Current Side Project
 A cutting list App for the construction industry called... cuttinglistapp {LINKHERE to come}.
