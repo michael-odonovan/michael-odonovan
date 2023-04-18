@@ -28,3 +28,4 @@ Zoom, Jira, Slack, Github, Keybase.
 
 ### There's only about 10 years left before those AI widget things start eating our brains. I'm not sure what to do about that, so I'll probably just keep pushing a bit of code here....
 
+![cardboard robot](https://github.com/michael-odonovan/michael-odonovan/robot.jpg "Welcome to my GitHub")
