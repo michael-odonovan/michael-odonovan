@@ -3,9 +3,6 @@
 - A Front-end Developer living in Bristol, UK
 - I work at Comic Relief, a major UK based charity.
 
-### Current Side Project
-A cutting list App for the construction industry called... cuttinglistapp {link to come}.
-
 ### Languages
 Javascript, Typescript, HTML, CSS, Bash, Python.
 
@@ -17,4 +14,7 @@ Cypress, Jest, Redux, Netlify, Contentful, Sanity.io, AWS.
 
 ### Teamwork Apps
 Zoom, Jira, Slack, Github, Keybase.
+
+### Current Side Project
+A cutting list App for the construction industry called... cuttinglistapp {link to come}.
 
