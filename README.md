@@ -7,7 +7,7 @@
 Javascript, Typescript, HTML, CSS, Bash, Python.
 
 ### Dev Stuff
-Mac / Linux, Neovim, Tmux, LazyGit, Zsh, Kitty.
+Mac / Linux, Neovim, Tmux, LazyGit, Zsh.
 
 ### Prod tools
 Cypress, Jest, Redux, Netlify, Contentful, Sanity.io, AWS.
