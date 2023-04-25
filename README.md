@@ -13,7 +13,7 @@ Mac / Linux, Neovim, Tmux, LazyGit, Zsh.
 Cypress, Jest, Redux, Netlify, Contentful, Sanity.io, AWS.
 
 ### Teamwork Apps
-Jira, Slack, Github, Keybase, Zoom.
+Jira, Slack, Github, Keybase, Zoom, Concourse pipeline.
 
 ### Current Side Project
 A cutting list App for the construction industry called... cuttinglistapp {link to come}.
