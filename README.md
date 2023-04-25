@@ -1,4 +1,4 @@
-### There's only about 10 years left before those AI widget things turn us all into slaves. I'm not sure what to do about that, so I'll probably just keep pushing a bit of code here.
+### There's only about 10 years left before those AI widget things destroy humankind. I'm not sure what to do about that, so I'll probably just keep pushing a bit of code here.
 
 - A Front-end Developer living in Bristol, UK
 - I work at Comic Relief, a major UK based charity.
