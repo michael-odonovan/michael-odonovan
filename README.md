@@ -7,10 +7,10 @@
 Javascript, Typescript, HTML, CSS, Bash, Python.
 
 ### Dev Stuff
-Mac / Linux, Neovim, Tmux, LazyGit, Zsh.
+Mac / Linux, Zsh, Neovim, Tmux, LazyGit.
 
-### Prod tools
-Cypress, Jest, Redux, Netlify, Contentful, Sanity.io, AWS.
+### Build tools
+React, Next.js, Gatsby, Cypress, Jest, Redux, Netlify, Contentful, Sanity.io, AWS.
 
 ### Teamwork Apps
 Jira, Slack, Github, Keybase, Zoom, Concourse pipeline.
