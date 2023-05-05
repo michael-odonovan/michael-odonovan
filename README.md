@@ -15,6 +15,3 @@ React, Next.js, Gatsby, Cypress, Jest, Redux, Netlify, Contentful, Sanity.io, AW
 ### Teamwork Apps
 Jira, Slack, Github, Keybase, Zoom, Concourse pipeline.
 
-### Current Side Project
-A cutting list App for the construction industry called... cuttinglistapp {link to come}.
-
