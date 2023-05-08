@@ -10,7 +10,7 @@ Javascript, Typescript, HTML, CSS, Bash, Python.
 Mac / Linux, Zsh, Neovim, Tmux, LazyGit.
 
 ### Build tools
-React, Next.js, Gatsby, Cypress, Jest, Redux, Netlify, Contentful, Sanity.io, AWS.
+React, Next.js, Gatsby, Cypress, Jest, Redux, Netlify, Contentful, Sanity.io.
 
 ### Teamwork Apps
 Jira, Slack, Github, Keybase, Zoom, Concourse pipeline.
