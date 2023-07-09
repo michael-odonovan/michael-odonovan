@@ -6,11 +6,11 @@
 ### Languages
 Javascript, Typescript, HTML, CSS, Bash, Python.
 
-### Dev Stuff
-Mac / Linux, Zsh, Neovim, Tmux, LazyGit.
-
 ### Build tools
 React, Next.js, Gatsby, Styled Components, CSS Modules, Tailwind, Jest, Cypress, eslint, Redux, Netlify, Contentful, Sanity.io, Node.js
+
+### Dev Stuff
+Mac / Linux, Zsh, Neovim, Tmux, LazyGit.
 
 ### Teamwork Apps
 Jira, Slack, Github, Keybase, Zoom, Concourse pipeline.
