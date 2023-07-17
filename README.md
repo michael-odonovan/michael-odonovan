@@ -7,7 +7,7 @@
 Javascript, Typescript, HTML, CSS, Bash, Python.
 
 ### Build tools
-React, NextJs, Gatsby, Styled Components, CSS Modules, Tailwind, Jest, Cypress, eslint, React-Redux, Netlify, Contentful, Sanity.io, Node.js
+React, NextJs, Gatsby, Styled Components, CSS Modules, Tailwind, Jest, Cypress, eslint, Redux, Netlify, Contentful, Sanity.io, Node.js
 
 ### Dev Stuff
 Mac / Linux, Zsh, Neovim, Tmux, LazyGit.
